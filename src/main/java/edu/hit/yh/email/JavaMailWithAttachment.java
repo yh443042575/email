@@ -20,6 +20,11 @@ import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
 import javax.mail.internet.MimeUtility;
 
+/**
+ * 添加良心注释
+ * @author emmerich
+ *
+ */
 public class JavaMailWithAttachment {
     private MimeMessage message;
     private Session session;
